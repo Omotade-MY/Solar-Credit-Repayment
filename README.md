@@ -8,3 +8,6 @@ Pay-as-you-go (PAYGo) solar technology has become Africa’s most promising appr
 PAYGo is a pioneering, game-changing credit system that removes the initial financial barrier to solar energy access by allowing consumers to make a series of modest payments to purchase time units (or tokens) for using solar electricity instead of paying upfront for the entire solar lighting system. After the payments are complete, the customer then owns the solar power device, which they can use at no additional cost.
 
 The objective of this challenge is to help predict the next six months of payments for different customers. This will allow PAYGo distributors to provide appropriate services and customer support, ensuring that they can continue to provide these important devices affordably and efficiently to the benefit of people all over Africa.
+
+
+https://zindi.africa/competitions/sfc-paygo-solar-credit-repayment-competition
